@@ -9,7 +9,8 @@ with banking, and undergo no literacy training. The results suggest that
 the 2 billion unbanked around the world have unmet demand for banking or
 that banking supply can stimulate its own demand.
 
-1 - Data cleaning and analysis.do file
+Data cleaning and analysis.do file
+
 The .do file inspects and cleans the proprietary bank data which contains details of accounts and its transactions.
 
 A) It shows the distribution of transactions according to types - banking transactions, bank charges, interest payments, bulk transactions and miscellaneous.
